@@ -1,6 +1,7 @@
 # Weila Releases
 
 
+
 微喇 web 项目发布合集
 
 ## Projects
@@ -17,9 +18,6 @@
 预览
 
 - [测试服](https://weila-account-manager.vercel.app/#/)
-- [审核用](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
-- [多语言](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
-
 
 ### Work Web
 
@@ -32,6 +30,8 @@
 预览
 
 - [测试服](https://work.wl.kvoon.me)
+- [审核用](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
+- [多语言](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
 
 ## All Repository
 
