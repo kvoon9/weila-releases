@@ -1,5 +1,6 @@
 # Weila Releases
 
+
 微喇 web 项目发布合集
 
 ## Projects
@@ -9,28 +10,28 @@
 
 > https://github.com/kvoon3/weila-account-manager-releases
 
+下载
+
+- [正式服](https://github.com/kvoon3/weila-account-manager-release/releases)
+
 预览
 
 - [测试服](https://weila-account-manager.vercel.app/#/)
 - [审核用](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
 - [多语言](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
 
-部署下载
-
-- [正式服](https://github.com/kvoon3/weila-account-manager-release/releases)
-
 
 ### Work Web
 
 > https://github.com/kvoon3/weila-work-web-releases
 
+下载
+
+- [正式服](https://github.com/kvoon3/weila-work-web-releases/releases)
+
 预览
 
 - [测试服](https://work.wl.kvoon.me)
-
-部署下载
-
-- [正式服](https://github.com/kvoon3/weila-work-web-releases/releases)
 
 ## All Repository
 
