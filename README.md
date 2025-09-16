@@ -1,7 +1,5 @@
 # Weila Releases
 
-
-
 微喇 web 项目发布合集
 
 ## Projects
@@ -26,11 +24,13 @@
 下载
 
 - [正式服](https://github.com/kvoon3/weila-work-web-releases/releases)
+- [审核版](https://github.com/kvoon3/weila-work-web-releases/releases?q=publish-verify&expanded=true)
+
 
 预览
 
 - [测试服](https://work.wl.kvoon.me)
-- [审核用](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
+- [审核版](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
 - [多语言](https://weila-work-unity-git-intl-kvoon9s-projects.vercel.app/#/)
 
 ## All Repository
