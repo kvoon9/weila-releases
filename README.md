@@ -1,6 +1,7 @@
 # Weila Releases
 
 
+
 微喇 web 项目发布合集
 
 ## Projects
@@ -8,7 +9,7 @@
 
 ### Account Manager
 
-> https://github.com/kvoon3/weila-account-manager-releases
+> https://github.com/kvoon9/weila-account-manager-releases
 
 下载
 
@@ -20,7 +21,7 @@
 
 ### Work Web
 
-> https://github.com/kvoon3/weila-work-web-releases
+> https://github.com/kvoon9/weila-work-releases
 
 下载
 
