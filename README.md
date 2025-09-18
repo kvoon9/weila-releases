@@ -12,7 +12,7 @@
 
 下载
 
-- [正式服](https://github.com/kvoon3/weila-account-manager-release/releases)
+- [正式服](https://github.com/kvoon9/weila-account-manager-release/releases)
 
 预览
 
@@ -24,8 +24,8 @@
 
 下载
 
-- [正式服](https://github.com/kvoon9/weila-work-web-releases/releases)
-- [审核版](https://github.com/kvoon9/weila-work-web-releases/releases?q=publish-verify&expanded=true)
+- [正式服](https://github.com/kvoon9/weila-work-releases/releases)
+- [审核版](https://github.com/kvoon9/weila-work-releases/releases?q=publish-verify&expanded=true)
 
 
 预览
