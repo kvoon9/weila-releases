@@ -37,6 +37,11 @@
 - [审核版](https://weila-work-web-git-publish-verify-kvoon9s-projects.vercel.app)
 - [多语言](https://weila-work-web-git-intl-kvoon9s-projects.vercel.app/)
 
+
+#### To-dos
+
+- [ ] 创建用户密码必选
+
 ### Static Common
 
 - [预览](https://weila-static-content.vercel.app/android/privacy) (WIP)
