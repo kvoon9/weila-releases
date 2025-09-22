@@ -4,6 +4,7 @@
 
 
 
+
 微喇 web 项目发布合集
 
 ## Projects
@@ -36,11 +37,6 @@
 - [测试服](https://weila-work-web.vercel.app)
 - [审核版](https://weila-work-web-git-publish-verify-kvoon9s-projects.vercel.app)
 - [多语言](https://weila-work-web-git-intl-kvoon9s-projects.vercel.app/)
-
-
-#### To-dos
-
-- [ ] 创建用户密码必选
 
 ### Static Common
 
