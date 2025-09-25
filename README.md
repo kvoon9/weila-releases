@@ -5,6 +5,7 @@
 
 
 
+
 微喇 web 项目发布合集
 
 ## Projects
@@ -39,6 +40,8 @@
 - [多语言](https://weila-work-web-git-intl-kvoon9s-projects.vercel.app/)
 
 ### Static Common
+
+> https://github.com/kvoon9/weila-static-content
 
 - [预览](https://weila-static-content.vercel.app/android/privacy) (WIP)
 - [下载](https://github.com/kvoon9/weila-static-content/releases)
